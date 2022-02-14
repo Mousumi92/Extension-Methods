@@ -1,0 +1,3 @@
+C:\Users\mousumi.kumari\source\repos\Modifiers\Protected Internal\obj\Debug\Protected Internal.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\Modifiers\Protected Internal\obj\Debug\Protected Internal.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\Modifiers\Protected Internal\obj\Debug\Protected Internal.csproj.CoreCompileInputs.cache

@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\Modifiers\Internal Modifiers\bin\Debug\Internal Modifiers.exe.config
+C:\Users\mousumi.kumari\source\repos\Modifiers\Internal Modifiers\bin\Debug\Internal Modifiers.exe
+C:\Users\mousumi.kumari\source\repos\Modifiers\Internal Modifiers\bin\Debug\Internal Modifiers.pdb
+C:\Users\mousumi.kumari\source\repos\Modifiers\Internal Modifiers\obj\Debug\Internal Modifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\Modifiers\Internal Modifiers\obj\Debug\Internal Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\Modifiers\Internal Modifiers\obj\Debug\Internal Modifiers.exe
+C:\Users\mousumi.kumari\source\repos\Modifiers\Internal Modifiers\obj\Debug\Internal Modifiers.pdb

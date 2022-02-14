@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\bin\Debug\Public Access Modifiers.exe.config
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\bin\Debug\Public Access Modifiers.exe
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\bin\Debug\Public Access Modifiers.pdb
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\obj\Debug\Public Access Modifiers.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\obj\Debug\Public Access Modifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\obj\Debug\Public Access Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\obj\Debug\Public Access Modifiers.exe
+C:\Users\mousumi.kumari\source\repos\Modifiers\Public Access Modifiers\obj\Debug\Public Access Modifiers.pdb

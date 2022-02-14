@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8459dc8a-9eb2-426e-8bad-f24884b9418c": {
+      "ProjectGuid": "8459dc8a-9eb2-426e-8bad-f24884b9418c",
+      "DisplayName": "Modifiers",
+      "ColorIndex": 0
+    },
+    "e47ad6ba-56f0-46c4-9947-ba57d958621d": {
+      "ProjectGuid": "e47ad6ba-56f0-46c4-9947-ba57d958621d",
+      "DisplayName": "Protected Access Modifiers",
+      "ColorIndex": 1
+    },
+    "7d31645e-0c18-4877-9b2f-13f7a0448cdd": {
+      "ProjectGuid": "7d31645e-0c18-4877-9b2f-13f7a0448cdd",
+      "DisplayName": "Internal Modifiers",
+      "ColorIndex": 2
+    },
+    "ac31001a-7bbe-44e8-9f38-e2ca508d00f1": {
+      "ProjectGuid": "ac31001a-7bbe-44e8-9f38-e2ca508d00f1",
+      "DisplayName": "Protected Internal",
+      "ColorIndex": 3
+    },
+    "3684571a-734e-4d6e-a40a-675633425197": {
+      "ProjectGuid": "3684571a-734e-4d6e-a40a-675633425197",
+      "DisplayName": "Public Access Modifiers",
+      "ColorIndex": 4
+    },
+    "6d953f8c-d8bf-47cc-9743-f03436aa6440": {
+      "ProjectGuid": "6d953f8c-d8bf-47cc-9743-f03436aa6440",
+      "DisplayName": "Private Access Modifiers",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "444a5ad5-797c-4014-a09c-cec755477544": {
+      "ProjectGuid": "444a5ad5-797c-4014-a09c-cec755477544",
+      "DisplayName": "Namespace keywords",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20f2c862-3768-4d9e-9121-5a5c0e0f7ca0": {
+      "ProjectGuid": "20f2c862-3768-4d9e-9121-5a5c0e0f7ca0",
+      "DisplayName": "test_file_browser",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

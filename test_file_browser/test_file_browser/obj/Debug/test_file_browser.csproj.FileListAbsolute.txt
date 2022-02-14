@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\bin\Debug\test_file_browser.exe.config
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\bin\Debug\test_file_browser.exe
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\bin\Debug\test_file_browser.pdb
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\obj\Debug\test_file_browser.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\obj\Debug\test_file_browser.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\obj\Debug\test_file_browser.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\obj\Debug\test_file_browser.exe
+C:\Users\mousumi.kumari\source\repos\test_file_browser\test_file_browser\obj\Debug\test_file_browser.pdb
