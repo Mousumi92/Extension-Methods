@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectOperator\bin\Debug\IntersectOperator.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectOperator\bin\Debug\IntersectOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectOperator\bin\Debug\IntersectOperator.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectOperator\obj\Debug\IntersectOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectOperator\obj\Debug\IntersectOperator.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectOperator\obj\Debug\IntersectOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectOperator\obj\Debug\IntersectOperator.pdb

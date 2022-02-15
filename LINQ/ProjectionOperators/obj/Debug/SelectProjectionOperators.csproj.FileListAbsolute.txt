@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\bin\Debug\ProjectionOperators.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\bin\Debug\ProjectionOperators.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\bin\Debug\ProjectionOperators.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\obj\Debug\SelectProjectionOperators.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\obj\Debug\SelectProjectionOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\obj\Debug\SelectProjectionOperators.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\obj\Debug\ProjectionOperators.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\ProjectionOperators\obj\Debug\ProjectionOperators.pdb

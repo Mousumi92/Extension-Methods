@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\AllOperator\bin\Debug\AllOperator.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\AllOperator\bin\Debug\AllOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\AllOperator\bin\Debug\AllOperator.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\AllOperator\obj\Debug\AllOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\AllOperator\obj\Debug\AllOperator.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\AllOperator\obj\Debug\AllOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\AllOperator\obj\Debug\AllOperator.pdb

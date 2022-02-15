@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\GenerationOperator\bin\Debug\GenerationOperator.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\GenerationOperator\bin\Debug\GenerationOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\GenerationOperator\bin\Debug\GenerationOperator.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\GenerationOperator\obj\Debug\GenerationOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\GenerationOperator\obj\Debug\GenerationOperator.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\GenerationOperator\obj\Debug\GenerationOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\GenerationOperator\obj\Debug\GenerationOperator.pdb

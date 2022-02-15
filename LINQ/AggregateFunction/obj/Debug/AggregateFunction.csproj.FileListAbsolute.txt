@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\AggregateFunction\bin\Debug\AggregateFunction.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\AggregateFunction\bin\Debug\AggregateFunction.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\AggregateFunction\bin\Debug\AggregateFunction.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\AggregateFunction\obj\Debug\AggregateFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\AggregateFunction\obj\Debug\AggregateFunction.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\AggregateFunction\obj\Debug\AggregateFunction.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\AggregateFunction\obj\Debug\AggregateFunction.pdb

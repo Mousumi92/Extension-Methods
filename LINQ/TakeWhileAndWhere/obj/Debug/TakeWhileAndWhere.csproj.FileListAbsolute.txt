@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\TakeWhileAndWhere\bin\Debug\TakeWhileAndWhere.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\TakeWhileAndWhere\bin\Debug\TakeWhileAndWhere.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\TakeWhileAndWhere\bin\Debug\TakeWhileAndWhere.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\TakeWhileAndWhere\obj\Debug\TakeWhileAndWhere.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\TakeWhileAndWhere\obj\Debug\TakeWhileAndWhere.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\TakeWhileAndWhere\obj\Debug\TakeWhileAndWhere.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\TakeWhileAndWhere\obj\Debug\TakeWhileAndWhere.pdb

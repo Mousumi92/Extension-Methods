@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\bin\Debug\SumFunction.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\bin\Debug\SumFunction.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\bin\Debug\SumFunction.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\obj\Debug\SumFunction.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\obj\Debug\SumFunction.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\obj\Debug\SumFunction.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\obj\Debug\SumFunction.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\SumFunction\obj\Debug\SumFunction.pdb

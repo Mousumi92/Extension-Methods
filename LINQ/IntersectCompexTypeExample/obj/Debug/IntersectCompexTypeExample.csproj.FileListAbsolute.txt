@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectCompexTypeExample\bin\Debug\IntersectCompexTypeExample.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectCompexTypeExample\bin\Debug\IntersectCompexTypeExample.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectCompexTypeExample\bin\Debug\IntersectCompexTypeExample.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectCompexTypeExample\obj\Debug\IntersectCompexTypeExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectCompexTypeExample\obj\Debug\IntersectCompexTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectCompexTypeExample\obj\Debug\IntersectCompexTypeExample.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\IntersectCompexTypeExample\obj\Debug\IntersectCompexTypeExample.pdb

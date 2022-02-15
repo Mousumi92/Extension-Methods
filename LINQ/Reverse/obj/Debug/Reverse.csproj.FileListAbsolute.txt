@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\Reverse\bin\Debug\Reverse.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\Reverse\bin\Debug\Reverse.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\Reverse\obj\Debug\Reverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\Reverse\obj\Debug\Reverse.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\Reverse\obj\Debug\Reverse.pdb

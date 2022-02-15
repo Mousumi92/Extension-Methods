@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\bin\Debug\LINQQuerySyntax.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\bin\Debug\LINQQuerySyntax.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\bin\Debug\LINQQuerySyntax.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\obj\Debug\LINQQuerySyntax.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\obj\Debug\LINQQuerySyntax.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\obj\Debug\LINQQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\obj\Debug\LINQQuerySyntax.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\LINQQuerySyntax\obj\Debug\LINQQuerySyntax.pdb

@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\bin\Debug\LeftJoin.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\bin\Debug\LeftJoin.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\bin\Debug\LeftJoin.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\obj\Debug\LeftJoin.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\obj\Debug\LeftJoin.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\obj\Debug\LeftJoin.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\obj\Debug\LeftJoin.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\LeftJoin\obj\Debug\LeftJoin.pdb

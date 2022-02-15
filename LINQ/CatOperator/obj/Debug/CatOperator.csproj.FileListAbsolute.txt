@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\CatOperator\bin\Debug\CatOperator.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\CatOperator\bin\Debug\CatOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\CatOperator\bin\Debug\CatOperator.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\CatOperator\obj\Debug\CatOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\CatOperator\obj\Debug\CatOperator.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\CatOperator\obj\Debug\CatOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\CatOperator\obj\Debug\CatOperator.pdb

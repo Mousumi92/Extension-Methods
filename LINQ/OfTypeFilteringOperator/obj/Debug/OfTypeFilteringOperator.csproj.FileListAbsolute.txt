@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\OfTypeFilteringOperator\bin\Debug\OfTypeFilteringOperator.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\OfTypeFilteringOperator\bin\Debug\OfTypeFilteringOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\OfTypeFilteringOperator\bin\Debug\OfTypeFilteringOperator.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\OfTypeFilteringOperator\obj\Debug\OfTypeFilteringOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\OfTypeFilteringOperator\obj\Debug\OfTypeFilteringOperator.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\OfTypeFilteringOperator\obj\Debug\OfTypeFilteringOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\OfTypeFilteringOperator\obj\Debug\OfTypeFilteringOperator.pdb

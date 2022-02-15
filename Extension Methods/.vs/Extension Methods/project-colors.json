@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "284e06f9-4334-4bb5-abac-0c0547d6ca33": {
+      "ProjectGuid": "284e06f9-4334-4bb5-abac-0c0547d6ca33",
+      "DisplayName": "Extension Methods",
+      "ColorIndex": 0
+    },
+    "5e15db06-a2e7-441f-a804-e1345ea9a14c": {
+      "ProjectGuid": "5e15db06-a2e7-441f-a804-e1345ea9a14c",
+      "DisplayName": "StringExtensionMethod",
+      "ColorIndex": 1
+    },
+    "88062a96-eeff-4de3-8220-fd00ffec9272": {
+      "ProjectGuid": "88062a96-eeff-4de3-8220-fd00ffec9272",
+      "DisplayName": "UserDefinedExtensionMethod",
+      "ColorIndex": 2
+    },
+    "eb7460fe-f4e0-44de-8003-f79527aaa3e5": {
+      "ProjectGuid": "eb7460fe-f4e0-44de-8003-f79527aaa3e5",
+      "DisplayName": "ExamplesExtensionMethods",
+      "ColorIndex": 3
+    },
+    "e91f9da8-afc7-4aa7-9148-e8a24189caf8": {
+      "ProjectGuid": "e91f9da8-afc7-4aa7-9148-e8a24189caf8",
+      "DisplayName": "StaticExtensionMethod",
+      "ColorIndex": 4
+    },
+    "29e4f7bb-6a8d-4d9f-bf69-a3696ddbe066": {
+      "ProjectGuid": "29e4f7bb-6a8d-4d9f-bf69-a3696ddbe066",
+      "DisplayName": "BindingExtensionMethods",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

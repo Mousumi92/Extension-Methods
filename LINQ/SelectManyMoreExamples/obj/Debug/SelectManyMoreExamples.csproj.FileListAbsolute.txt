@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\SelectManyMoreExamples\bin\Debug\SelectManyMoreExamples.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\SelectManyMoreExamples\bin\Debug\SelectManyMoreExamples.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\SelectManyMoreExamples\bin\Debug\SelectManyMoreExamples.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\SelectManyMoreExamples\obj\Debug\SelectManyMoreExamples.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\SelectManyMoreExamples\obj\Debug\SelectManyMoreExamples.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\SelectManyMoreExamples\obj\Debug\SelectManyMoreExamples.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\SelectManyMoreExamples\obj\Debug\SelectManyMoreExamples.pdb

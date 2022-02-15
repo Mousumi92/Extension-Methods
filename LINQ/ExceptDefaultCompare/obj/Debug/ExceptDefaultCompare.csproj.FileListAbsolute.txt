@@ -1,0 +1,8 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\bin\Debug\ExceptDefaultCompare.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\bin\Debug\ExceptDefaultCompare.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\bin\Debug\ExceptDefaultCompare.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\obj\Debug\ExceptDefaultCompare.csproj.AssemblyReference.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\obj\Debug\ExceptDefaultCompare.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\obj\Debug\ExceptDefaultCompare.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\obj\Debug\ExceptDefaultCompare.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptDefaultCompare\obj\Debug\ExceptDefaultCompare.pdb

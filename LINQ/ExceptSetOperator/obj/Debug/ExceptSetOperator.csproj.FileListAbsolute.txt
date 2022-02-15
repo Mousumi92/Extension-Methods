@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptSetOperator\bin\Debug\ExceptSetOperator.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptSetOperator\bin\Debug\ExceptSetOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptSetOperator\bin\Debug\ExceptSetOperator.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptSetOperator\obj\Debug\ExceptSetOperator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptSetOperator\obj\Debug\ExceptSetOperator.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptSetOperator\obj\Debug\ExceptSetOperator.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\ExceptSetOperator\obj\Debug\ExceptSetOperator.pdb

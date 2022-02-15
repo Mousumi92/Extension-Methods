@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\DefaultIfEmpty\bin\Debug\DefaultIfEmpty.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\DefaultIfEmpty\bin\Debug\DefaultIfEmpty.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\DefaultIfEmpty\bin\Debug\DefaultIfEmpty.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\DefaultIfEmpty\obj\Debug\DefaultIfEmpty.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\DefaultIfEmpty\obj\Debug\DefaultIfEmpty.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\DefaultIfEmpty\obj\Debug\DefaultIfEmpty.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\DefaultIfEmpty\obj\Debug\DefaultIfEmpty.pdb

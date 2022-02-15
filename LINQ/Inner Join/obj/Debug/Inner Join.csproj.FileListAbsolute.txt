@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\Inner Join\bin\Debug\Inner Join.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\Inner Join\bin\Debug\Inner Join.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\Inner Join\bin\Debug\Inner Join.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\Inner Join\obj\Debug\Inner Join.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\Inner Join\obj\Debug\Inner Join.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\Inner Join\obj\Debug\Inner Join.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\Inner Join\obj\Debug\Inner Join.pdb

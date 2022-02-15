@@ -1,0 +1,7 @@
+C:\Users\mousumi.kumari\source\repos\LINQ\GroupJoin\bin\Debug\GroupJoin.exe.config
+C:\Users\mousumi.kumari\source\repos\LINQ\GroupJoin\bin\Debug\GroupJoin.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\GroupJoin\bin\Debug\GroupJoin.pdb
+C:\Users\mousumi.kumari\source\repos\LINQ\GroupJoin\obj\Debug\GroupJoin.csproj.SuggestedBindingRedirects.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\GroupJoin\obj\Debug\GroupJoin.csproj.CoreCompileInputs.cache
+C:\Users\mousumi.kumari\source\repos\LINQ\GroupJoin\obj\Debug\GroupJoin.exe
+C:\Users\mousumi.kumari\source\repos\LINQ\GroupJoin\obj\Debug\GroupJoin.pdb

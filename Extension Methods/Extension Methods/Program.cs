@@ -21,9 +21,9 @@ namespace Extension_Methods
 
     public static class NewClass
     {
-        public static void Text3(this OldClass O)
+        public static void Text3(this OldClass Objj)
         {
-            Console.WriteLine("Method Three");
+            Console.WriteLine("Method Three"+Objj);
         }
         public static void Text4(this OldClass O, int x)
         {
